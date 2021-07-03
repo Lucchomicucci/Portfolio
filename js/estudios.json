@@ -1,0 +1,38 @@
+[
+    {
+        "certificado": "Maquetador Web",
+        "institucion": "Coderhouse",
+        "fechaInicio": "09/2019",
+        "fechaFinal": "12/2019"
+    },
+    {
+        "certificado": "Introduccion a la programacion",
+        "institucion": "Universidad Tecnologica Nacional",
+        "fechaInicio": "02/2021",
+        "fechaFinal": "04/2021"
+    },
+    {
+        "certificado": "JavaScript Vanilla",
+        "institucion": "Coderhouse",
+        "fechaInicio": "03/2021",
+        "fechaFinal": "06/2021"
+    },
+    {
+        "certificado": "SQL / MySQL",
+        "institucion": "Udemy",
+        "fechaInicio": "04/2021",
+        "fechaFinal": "04/2021"
+    },
+    {
+        "certificado": "ReactJs",
+        "institucion": "Coderhouse",
+        "fechaInicio": "06/2021",
+        "fechaFinal": "Actualidad"
+    },
+    {
+        "certificado": "Master en frameworks JavaScript",
+        "institucion": "Udemy",
+        "fechaInicio": "05/2021",
+        "fechaFinal": "Actualidad"
+    }
+]
